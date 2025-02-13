@@ -1,3 +1,3 @@
 ## Jupyter Notebook  
 
-📓 Посмотреть ноутбук: [model.ipynb](model.ipynb)  
+📓: [model.ipynb](model.ipynb)  
