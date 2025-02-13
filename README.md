@@ -1,3 +1,3 @@
 ## Jupyter Notebook  
 
-📓: [model.ipynb](model.ipynb)  
+📓The notebook: [model.ipynb](model.ipynb)  
